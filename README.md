@@ -7,4 +7,4 @@ I am...
 - 📚 fostering interest in research at HCURA and statistics at GUSH.
 - 🎉 cooking and reading in my spare time!
 
-📫 How to reach me: nmishra@college.harvard.edu (email) or /nmishra2024 (Linkedin)
+📫 How to reach me: nmishra@college.harvard.edu
