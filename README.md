@@ -7,4 +7,6 @@ I am...
 - ✨ fostering interest in statistics at **GUSH**.
 - 🎉 cooking and reading in my spare time!
 
+Feel free to check out some of my personal projects here! If you want to learn more about my research, visit my website here!
+
 📫 How to reach me: nmishra@college.harvard.edu
