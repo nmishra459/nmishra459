@@ -2,7 +2,6 @@
 
 I am...
 - 📚 studying computer science at **Harvard University** (Class of 2024).
-- 🌱 helping communities forge deeper connections at **Glimpse** (YC W20), a Y Combinator-backed startup.
 - 🌌 working on a machine learning project on black holes at **Harvard IACS**.
 - 🏫 preparing to join the **Harvard CS50** staff as a course assistant.
 - 🎉 cooking and reading in my spare time!
