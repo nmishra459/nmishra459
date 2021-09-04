@@ -3,7 +3,7 @@
 I am...
 - 📚 studying computer science at **Harvard College** (Class of 2024).
 - 🌌 working on a machine learning project on black holes at **Harvard IACS**.
-- 🏫 preparing to join **Harvard's CS50** staff as a course assistant.
+- 🏫 guiding introductory CS students as a course assistant for CS50 at Harvard.
 - 🎉 cooking and reading in my spare time!
 
 If you want to learn more about my projects and research, visit my [website](https://nmishra459.github.io/)!
