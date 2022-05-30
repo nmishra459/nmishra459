@@ -3,7 +3,7 @@
 I am...
 - 📚 studying computer science and statistics at **Harvard College** (Class of 2024).
 - ☀️ spending my summer working at Palantir as a software engineering intern.
-- 🍂 looking forward to joining Amazon as an software development engineering intern in the fall!
+- 🍂 looking forward to joining Amazon as an software development engineering intern in the fall.
 - 🎉 cooking and reading in my spare time!
 
 If you want to learn more about my projects and research, visit my [website](https://nmishra459.github.io/)!
