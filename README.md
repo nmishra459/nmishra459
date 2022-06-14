@@ -6,7 +6,7 @@ I am...
 - 🌐 working on a bounty-based software project at Palantir, reporting directly to a Gotham Platform VP of product.
 
 I have...
-- 🌌 parameterizing black hole images with convolutional neural networks at the Harvard Insititute for Applied Computational Science (IACS).
+- 🌌 parameterized black hole images with convolutional neural networks at the Harvard Insititute for Applied Computational Science.
 - 🌱 proposed product features and analyzed user trends at Glimpse, a Y Combinator startup acquired by twine.
 - 🔭 programmed imaging scripts and optimized software parameters for stereo camera modules as part of a medical imaging initative at Biopticon.
 - ⚛️ modeled and recorded the statistical mechanics of self-gravitating particle systems at Princeton Plasma Physics Laboratory's (PPPL) Theory Department
