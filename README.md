@@ -1,7 +1,6 @@
 ### Hi there 👋 - My name is Nishant Mishra!
 
 I am...
-- 📈 building LLM tools for VC portfolio management at General Catalyst.
 - 📖 Studying computer science and statistics as an undergraduate at Harvard.
 - 🎉 cooking, writing, and reading in my spare time!
 
